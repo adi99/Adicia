@@ -26,14 +26,14 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 1- Templates of Open world will be available which can costomized according to User's needs. They can also import Voxel Assets from any voxel editor or from web and can Use them to make Open World of their Choice. They can sell them into NFT MarketPlace and monetize them.
 
 2- To build different types of Puzzle, Script will be needed. For Players with no technical knowledge, there will be several Templates of different Puzzle like:- <br/>
-i-Optical Illusion <br />
-ii- Physics Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw <br />
-iii- Board game (Hitman Go) <br />
-iv- Point and Click game <br />
-v- Card battle game <br />
-vi- City Builder (construct building, gather resources defence kingdom) <br />
-vii- Tower defence <br />
-Vii- Turn Based game <br />
+i-    Optical Illusion <br />
+ii-   Physics Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw <br />
+iii-  Board game (Hitman Go) <br />
+iv-   Point and Click game <br />
+v-    Card battle game <br />
+vi-   City Builder (construct building, gather resources defence kingdom) <br />
+vii-  Tower defence <br />
+Vii-  Turn Based game <br />
 viii- RPG adventure <br />
 These templates will be inside the Game Maker.Users can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Puzzle. <br />
 User can Combine different Templates/Script to make Innovative Games inside the Metaverse. 
