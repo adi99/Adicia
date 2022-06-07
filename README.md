@@ -1,8 +1,11 @@
 # Adicia
 The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with a user generated Puzzle content like Optical Illusion and Mechanical Puzzle. <br />
-#  User can play this Game on (https://simmer.io/@Adi99/adicia) <br />
-# This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8) <br />
 
+# Web App
+User can play this Game on (https://simmer.io/@Adi99/adicia). Simmer does not support Metamask. You have to run local server for Wallet Integartion <br />
+# Video
+This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8) <br />
+# Description
 This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
 
 # Monument/Architecture Design
