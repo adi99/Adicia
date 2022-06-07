@@ -3,7 +3,7 @@ The Adicia team is building a unique virtual world where players can play, own, 
 #  User can play this Game on (https://simmer.io/@Adi99/adicia)
 # This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8)
 
-# This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
+This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
 
 # Monument/Architecture Design
 Inspired by minimalist 3D design, optical illusions and palaces and temples from around the world, every monument is a unique, hand-crafted world to explore. User can create NFTs using voxel based Monuments/Architecture.
