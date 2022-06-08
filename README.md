@@ -2,8 +2,8 @@
 The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with a user generated Puzzle content like Optical Illusion and Mechanical Puzzle. <br />
 
 #### Web App
-User can play this Game on [Web] (https://simmer.io/@Adi99/adicia). <br />
-Simmer does not support Metamask. You have to run local server for Wallet Integartion 
+User can play this Game on [Web] (https://adicia.netlify.app/). <br />
+ 
 #### Video
 This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8) 
 ## Description
